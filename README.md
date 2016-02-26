@@ -54,6 +54,9 @@ http://webdesign.tutsplus.com/tutorials/understanding-the-less-loop--cms-23827?u
 image loader
 http://jonobr1.github.io/stalactite/
 
+====================================================================
+image crop
+http://www.jqueryscript.net/demo/Easy-jQuery-Image-Cropping-Plugin-with-Live-Previews-Image-Cropper/
 ===================================================================
 div checker
 http://jona.ca/blog/unclosed-tag-finder
