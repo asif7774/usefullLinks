@@ -303,6 +303,7 @@ http://tympanus.net/Development/SidebarTransitions/
 http://www.jqueryrain.com/?0ZG_8bv2
 http://tympanus.net/Tutorials/MotionBlurEffect/menu.html
 http://s.codepen.io/rickzanutta/debug/QwwNEg?
+http://bootsnav.danurstrap.com/
 =======================================================================
 Browser Hacks
 
