@@ -304,6 +304,7 @@ http://www.jqueryrain.com/?0ZG_8bv2
 http://tympanus.net/Tutorials/MotionBlurEffect/menu.html
 http://s.codepen.io/rickzanutta/debug/QwwNEg?
 http://bootsnav.danurstrap.com/
+http://codepen.io/lbebber/pen/RNgBPP
 =======================================================================
 Browser Hacks
 
