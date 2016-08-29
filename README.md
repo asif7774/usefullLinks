@@ -55,6 +55,9 @@ image loader
 http://jonobr1.github.io/stalactite/
 
 ====================================================================
+fixed table header angulr
+http://ngmodules.org/modules/angu-fixed-header-table
+=========================================================================
 image crop
 http://www.jqueryscript.net/demo/Easy-jQuery-Image-Cropping-Plugin-with-Live-Previews-Image-Cropper/
 ===================================================================
