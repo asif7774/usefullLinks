@@ -60,6 +60,10 @@ http://ngmodules.org/modules/angu-fixed-header-table
 
 equal height angular js
 https://github.com/Sixthdim/angular-vertilize
+
+sticky element angular js
+https://github.com/d-oliveros/ngSticky
+
 =========================================================================
 image crop
 http://www.jqueryscript.net/demo/Easy-jQuery-Image-Cropping-Plugin-with-Live-Previews-Image-Cropper/
