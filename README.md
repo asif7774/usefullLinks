@@ -64,6 +64,10 @@ https://github.com/Sixthdim/angular-vertilize
 sticky element angular js
 https://github.com/d-oliveros/ngSticky
 
+====================================
+css filter
+http://codepen.io/Kseso/pen/Ajamv
+
 =========================================================================
 image crop
 http://www.jqueryscript.net/demo/Easy-jQuery-Image-Cropping-Plugin-with-Live-Previews-Image-Cropper/
