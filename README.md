@@ -34,7 +34,9 @@ css beautyfier
 http://www.codebeautifier.com
 
 ===================================================================
-
+parallex effect simple code
+http://www.javascriptkit.com/dhtmltutors/parallaxscrolling/parallaxfinal.htm
+==================================================================
 dialouge box
 
 http://rubaxa.github.io/Ply/
