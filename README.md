@@ -397,6 +397,9 @@ http://demo.tutorialzine.com/2011/09/shuffle-letters-effect-jquery/
 responsive text plugin
 
 http://fittextjs.com/
+=======================================================================
+responsive images
+https://codepen.io/lesjames/pen/hmzwG
 
 ========================================================================
 
