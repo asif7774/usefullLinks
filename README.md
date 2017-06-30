@@ -114,6 +114,7 @@ http://planettelex.github.io/jquery-coverflow/
 http://www.jqueryrain.com/?rGio9qn7
 https://wlada.github.io/vue-carousel-3d/examples/
 http://coolcarousels.frebsite.nl/
+http://www.jqueryrain.com/?0IwUW5sv
 
 ====================================================================
 mobile menu
