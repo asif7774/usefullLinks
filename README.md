@@ -126,7 +126,10 @@ http://gucheen.github.io/jQueryPopMenu/#
 tab menu
 http://tympanus.net/Blueprints/FullWidthTabs/
 =====================================================================
+color palette
 
+http://ambiance.somethingjustlikethis.com/
+=====================================================================
 transition and transform
 
 http://james-star.com/answers/en/css3-hover-effect-transitions-transformations-and-animations/
