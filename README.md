@@ -338,7 +338,10 @@ http://browserhacks.com/#hack-f1070533535a12744a0381a75087a915
 https://davidmurdoch.com/2011/05/13/ie9-only-css-hack/
 http://stackoverflow.com/questions/7364891/how-to-define-specific-css-rules-for-ie9-alone
 
+======================================================================
+flexbox genrator
 
+http://the-echoplex.net/flexyboxes/
 =======================================================================
 touch dialer
 
