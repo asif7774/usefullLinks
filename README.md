@@ -47,7 +47,10 @@ for grid design
 
 http://gridster.net/
 
+=====================================================================
+for Inuitcss
 
+http://terabytenz.github.io/inuit.css-kitchensink
 ======================================================================
 Less grid system
 
