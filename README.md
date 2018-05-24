@@ -431,6 +431,7 @@ scrollbar plugin
 
 http://jamesflorentino.github.io/nanoScrollerJS/
 http://manos.malihu.gr/jquery-custom-content-scroller/
+http://codemirror.net/demo/simplescrollbars.html
 
 =======================================================================
 tutorials
