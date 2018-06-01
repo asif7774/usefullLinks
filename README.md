@@ -48,6 +48,10 @@ for grid design
 http://gridster.net/
 
 =====================================================================
+Floating Panel
+
+https://jspanel.de
+=====================================================================
 for Inuitcss
 
 http://terabytenz.github.io/inuit.css-kitchensink
