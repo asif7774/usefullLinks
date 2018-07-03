@@ -435,6 +435,7 @@ scrollbar plugin
 
 use this - http://grsmto.github.io/simplebar/demos/
 
+http://blog.dynamicdrive.com/top-7-custom-scrollbar-javascript-and-jquery-plugins/
 http://jamesflorentino.github.io/nanoScrollerJS/
 http://manos.malihu.gr/jquery-custom-content-scroller/
 http://codemirror.net/demo/simplescrollbars.html
