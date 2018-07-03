@@ -433,6 +433,8 @@ http://joelb.me/scrollpath/
 =======================================================================
 scrollbar plugin
 
+use this - http://grsmto.github.io/simplebar/demos/
+
 http://jamesflorentino.github.io/nanoScrollerJS/
 http://manos.malihu.gr/jquery-custom-content-scroller/
 http://codemirror.net/demo/simplescrollbars.html
