@@ -433,7 +433,9 @@ http://joelb.me/scrollpath/
 =======================================================================
 scrollbar plugin
 
-use this - http://grsmto.github.io/simplebar/demos/
+use this - https://github.com/KingSora/OverlayScrollbars
+or this
+http://grsmto.github.io/simplebar/demos/
 
 http://blog.dynamicdrive.com/top-7-custom-scrollbar-javascript-and-jquery-plugins/
 http://jamesflorentino.github.io/nanoScrollerJS/
