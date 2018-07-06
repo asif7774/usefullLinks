@@ -85,7 +85,10 @@ http://www.jqueryscript.net/demo/Easy-jQuery-Image-Cropping-Plugin-with-Live-Pre
 div checker
 http://jona.ca/blog/unclosed-tag-finder
 =====================================================================
+Hamberger menu icon animation
 
+https://jonsuh.com/hamburgers/
+=====================================================================
 right click menu
 http://codepen.io/phenax/pen/BNGjBO
 =====================================================================
