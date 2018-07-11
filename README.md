@@ -144,6 +144,7 @@ http://ambiance.somethingjustlikethis.com/
 transition and transform
 
 http://james-star.com/answers/en/css3-hover-effect-transitions-transformations-and-animations/
+http://gudh.github.io/ihover/dist/index.html
 =====================================================================
 
 for angular js with bootstrap and core
